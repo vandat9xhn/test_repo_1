@@ -3,3 +3,4 @@ git 2
 master: update g2_1
 
 master: update g2_2
+br2: update g2_1
